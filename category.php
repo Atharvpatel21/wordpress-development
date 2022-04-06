@@ -1,0 +1,1 @@
+this is the generic template for all categories.
